@@ -1,4 +1,4 @@
-REBAR = rebar
+REBAR = ./rebar
 APP = minasan
 
 default: compile
